@@ -1,4 +1,5 @@
 # ASSIGNMENT-1
+project 1
 school grades manager
 
 - Integer Operations: Functions to compute the total, average, minimum, and maximum grades.
